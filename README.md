@@ -1,2 +1,3 @@
 # IoT-Inventory-Management-System
-IoT project to detect the number of boxes in the inventory using Ultrasonic Sensors
+
+IoT (Internet of Things) project to calculate the number of items present in our inventory at real time.
