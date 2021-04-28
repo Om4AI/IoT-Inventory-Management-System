@@ -8,13 +8,13 @@ int trig2 = D6;
 int echo2 = D7;
 
 //Wifi connection code
-char *ssid = "Infinite_©od€";
-char *pass = "Infinity44";
+char *ssid = "wifiusername";
+char *pass = "wifi password";
 
 unsigned long channelID= 1363593 ;
  
-const char *writeAPI = "8S8J3YSPHMERLXAG";
-const char *readAPI = "D8BGW10GQ0Q9GTU7";
+const char *writeAPI = "writeapi key from channel";
+const char *readAPI = "readapi key from channel";
 
 WiFiClient client;
 
