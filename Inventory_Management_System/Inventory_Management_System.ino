@@ -2,8 +2,6 @@
 #include <WiFiClient.h>;
 #include <ThingSpeak.h>;
 
-// < CODE BY: OM MULE  >
-
 //------------------------
 
 //Wifi connection code
